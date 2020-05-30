@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnesaMail", "UnesaMail\UnesaMail.csproj", "{D38AEEFE-AE69-4FFC-9976-65EF093418A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38AEEFE-AE69-4FFC-9976-65EF093418A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38AEEFE-AE69-4FFC-9976-65EF093418A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38AEEFE-AE69-4FFC-9976-65EF093418A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38AEEFE-AE69-4FFC-9976-65EF093418A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F42B18-A46E-46B2-81FC-170B6C7E29B5}
+	EndGlobalSection
+EndGlobal
