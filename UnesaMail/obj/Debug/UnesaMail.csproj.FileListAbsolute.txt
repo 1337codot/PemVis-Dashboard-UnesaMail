@@ -1,0 +1,76 @@
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.csprojAssemblyReference.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.Properties.Resources.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.csproj.GenerateResource.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\bin\Debug\UnesaMail.exe.config
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\bin\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\bin\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.Form1.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.UserControls.UC_Sent.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.UserControls.UC_Inbox.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.csproj.CopyComplete
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Codot\OutlookDemo\OutlookDemo\obj\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\bin\Debug\UnesaMail.exe.config
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\bin\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\bin\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.csprojAssemblyReference.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.Form1.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.Properties.Resources.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Sent.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Inbox.resources
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.csproj.GenerateResource.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.csproj.CopyComplete
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Codot\OutlookDemo\UnesaMail\obj\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\bin\Debug\UnesaMail.exe.config
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\bin\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\bin\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.csprojAssemblyReference.cache
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.Form1.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.Properties.Resources.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Chat.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Inbox.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Sent.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.csproj.GenerateResource.cache
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.csproj.CopyComplete
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Outbox.resources
+C:\Users\nadya\Downloads\Video\RawData - Copy - Copy - Copy\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Spam.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.csprojAssemblyReference.cache
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.Form1.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Chat.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Inbox.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Outbox.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Sent.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Spam.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Draft.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.csproj.GenerateResource.cache
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\bin\Debug\UnesaMail.exe.config
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\bin\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\bin\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.Properties.Resources.resources
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Downloads\Video\MNTB COK\UnesaMail\obj\Debug\UnesaMail.csproj.CopyComplete
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\bin\Debug\UnesaMail.exe.config
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\bin\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\bin\Debug\UnesaMail.pdb
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.csprojAssemblyReference.cache
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.Form1.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.Properties.Resources.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Chat.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Inbox.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Outbox.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Sent.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Spam.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.UserControls.UC_Draft.resources
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.csproj.GenerateResource.cache
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.csproj.CopyComplete
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.exe
+C:\Users\nadya\Downloads\Video\Legit Bosq\UnesaMail\obj\Debug\UnesaMail.pdb
